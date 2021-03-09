@@ -33,10 +33,10 @@ sidebar:
       - item: Boating
         link:
 
-      - item: 
+      - item: Reading
         link:
 
-      - item: 
+      - item: Sports
         link:
 
 career-profile:
@@ -90,7 +90,7 @@ projects:
 
       - title: Facial Recognition Door Entry
         link: "#"
-        tagline: "Control access to door using database of allowed 'faces'. Uses Jetson Nano for edge computing. "
+        tagline: "Control access to door using database of allowed 'faces'. Uses Jetson Nano for edge computing of neural network. "
 
 skills:
     title: Skills &amp; Proficiency
