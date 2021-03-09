@@ -97,19 +97,19 @@ skills:
 
     toolset:
       - name: Python
-        level: 80%
+        level: 88%
 
       - name: Excel
-        level: 75%
+        level: 78%
 
       - name: Arduino
-        level: 70%
+        level: 75%
 
       - name: Salesforce administration
-        level: 70%
+        level: 73%
 
       - name: Quickbooks accounting
-        level: 65%
+        level: 70%
 
       - name: Financial Analysis
-        level: 60%
+        level: 68%
