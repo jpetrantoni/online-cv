@@ -42,24 +42,21 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        Seeking a position that gives me an opportunity to expand my analytical skills
+        in a way that contributes to the overall company goals. I am creative, determined 
+        and dedicated to creating value in any situation I am in.
 education:
     - degree: BSBA in Finance
       university: University of Florida
       time: 2018 - 2022
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        The Bachelor of Science in Business Administration-Finance (BSBA-FIN)
+        degree program focuses on the acquisition and management of funds by businesses,
+        financial markets, security analysis and valuation, management of financial
+        institutions, interest rates, investments and securities, financial risk management,
+        security trading, government policy and financial markets, financial forecasting,
+        capital structure, venture capital and security issuance.
+          - 3.5 GPA in Major
     - degree: Minor in Innovation
       university: University of Florida
       time: 2018 - 2022
@@ -68,113 +65,51 @@ education:
         and ethics, Innovation Academy helps students develop an innovative mindset.
         The minor in Innovation provides Innovation Academy undergraduates with an
         overview of the major functional elements of innovation.
-          - Bullet point
-          - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Operations assistant
+      time: 2018 - 2020
+      company: Nautical Ventures
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Tracked and maintained inventory unit reports using Excel and QuickBooks.
+        Controlled Salesforce database to ensure lead follow through and data accuracy.
+        Coordinated with franchise correspondents to plan inventory orders. Generated
+        inventory accounting reports for floorplan tracking. Generated drone footage
+        and related marketing content. 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      A brief list of projects I've been working on. 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: RSI Bot
+        link: "https://github.com/jpetrantoni/rsi-bot"
+        tagline: "Scans binance for oversold cryptocurrencies based off RSI Indicator (1m and 5m candles.)"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Depth Data Scanner
+        link: "https://github.com/jpetrantoni/depth-data-bot"
+        tagline: "Predicts price action based off bid/ask spread and activity of cryptocurrencies."
 
-      - title: Tempo
+      - title: Facial Recognition Door Entry
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        tagline: "Control access to door using database of allowed 'faces'. Uses Jetson Nano for edge computing. "
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Excel
+        level: 75%
 
-      - name: Angular
-        level: 98%
+      - name: Arduino
+        level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Salesforce administration
+        level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Quickbooks accounting
+        level: 65%
 
-      - name: Sketch & Photoshop
+      - name: Financial Analysis
         level: 60%
