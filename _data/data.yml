@@ -81,7 +81,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      A brief list of projects I've been working on. 
+      A brief list of projects I've been working on or completed. 
     assignments:
       - title: RSI Bot
         link: "https://github.com/jpetrantoni/rsi-bot"
@@ -94,6 +94,10 @@ projects:
       - title: Facial Recognition Door Entry
         link: "#"
         tagline: "Control access to door using database of allowed 'faces'. Uses Jetson Nano for edge computing of neural network. "
+        
+      - title: Kinesthetic Quest (UF Catalyst)
+        link: "https://drive.google.com/file/d/1444f4HhFEsBjBcgYcSjQ1g9zn7LWcDkC/view?usp=sharing"
+        tagline: "Hands-on approach to early childhood development issues using an arduino, RFID sensor, and LCD display."
 
 skills:
     title: Skills &amp; Proficiency
@@ -108,7 +112,7 @@ skills:
       - name: Arduino
         level: 75%
 
-      - name: Salesforce Administration
+      - name: Salesforce Lightning
         level: 73%
 
       - name: Quickbooks Accounting
@@ -116,3 +120,6 @@ skills:
 
       - name: Financial Analysis
         level: 68%
+        
+      - name: Django
+        level: 60%
