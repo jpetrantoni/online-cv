@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Joe Petrantoni
-    tagline: Finance Graduate/Python Developer
+    tagline: Finance Student
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -44,7 +44,8 @@ career-profile:
     summary: |
         Seeking a position that gives me an opportunity to expand my analytical skills
         in a way that contributes to the overall company goals. I am creative, determined, 
-        and dedicated to creating value in any situation I am in.
+        and dedicated to creating value in any situation I am in. I am very interested in data science, 
+        specifically deep reinforcement learning and its applications within Finance.
 education:
     - degree: BSBA in Finance
       university: University of Florida
@@ -108,10 +109,10 @@ skills:
       - name: Flask
         level: 75%
 
-      - name: Salesforce Lightning
+      - name: Pandas
         level: 73%
 
-      - name: Quickbooks Accounting
+      - name: Git
         level: 70%
 
       - name: Financial Analysis
